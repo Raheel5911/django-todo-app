@@ -18,5 +18,7 @@ Python, Django, SQLite, HTML, CSS, Bootstrap
 4. `python manage.py runserver`
 5. Browser mein `http://127.0.0.1:8000/` kholein
 
+![Todo App](screenshot.png)
+
 ## Author
 Raheel
